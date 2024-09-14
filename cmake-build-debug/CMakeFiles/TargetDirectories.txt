@@ -1,5 +1,0 @@
-/Users/noname/Documents/Programming/Applied/Fractal_Editor/cmake-build-debug/CMakeFiles/Fractal_Editor.dir
-/Users/noname/Documents/Programming/Applied/Fractal_Editor/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/noname/Documents/Programming/Applied/Fractal_Editor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/noname/Documents/Programming/Applied/Fractal_Editor/cmake-build-debug/CMakeFiles/Fractal_Editor_autogen_timestamp_deps.dir
-/Users/noname/Documents/Programming/Applied/Fractal_Editor/cmake-build-debug/CMakeFiles/Fractal_Editor_autogen.dir
